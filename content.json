@@ -1,0 +1,61 @@
+{
+  "name":"Andrew Dirksen",
+  "address":"42115 NW Wilkes St #B\nBanks, OR, 97106",
+  "email":"andrew@dirksen.com",
+  "phone":"360 989 0001",
+  "Goals":[
+    "Improve life for present and future humans.",
+    "Learn new tech.",
+    "Learn new applications for math."
+    "Iterate at high frequency.",
+    "Automate Everything.",
+  ],
+  "Experience":{
+    "Clive Coffee":{
+      "date":"September 2011 to Jan 2013",
+      "deets":"I worked seasonally at Clive Coffee in Portland, Oregon.
+      I performed a few jobs there. First packing and shipping, then IT.
+      IT work incuded mantainence on the order management system at Clive Coffee.
+      I installed applications, performed general IT tasks (so mostly installing printer drivers).
+      I often performed fresh OS installs with Windows. I can do the same with mac and linux too."
+    },
+    "Home Lab":{
+      "":"I used to run game servers from home, so I can configure servers and routers.
+      I try out new linux OS's from time to time: Ubuntu, Fedora, Centos, Rasbian, Arch, Kali.
+      I can also deftly command MacOS and any Version of PC Windows released during this millennium.
+      Code is my profession and also my hobby. In my spare time, I like to tinker with software, and sometimes hardware projects.
+      haskell-synth is a library writen that transforms a function into a series of audio samples.
+      Turns out you can define any sound or song as a function of time.
+      space-game is a never ending project I have used to learn 3D graphics and orbital mechanics.
+      Space game has seen three spend-weeks-on-nothing-but-programming-and-forget-to-eat-meals iterations.
+      auto-gui was something I coded up last week.
+      It takes a configuration file then displays it as a gui. After the user has had their fun, it returns the modified configuration."
+    },
+    "Keyssa":{
+      "date":"asdf",
+      "deets":"
+        A cray cray amount of exp gained.
+      "
+    }
+  }
+}
+
+"
+Experience
+
+
+I spend a significant amount of time teaching myself electrical engineering theory and concepts, and have used this knowledge as well as knowledge of microcontrollers to experiment with concepts in electrical engineering. I often write in C++ for Arduino development boards.
+
+I own and use a 3D printer, and can use modeling software to modify CAD files. I am familiar with 3D printing software, and can calibrate and troubleshoot 3D printer hardware and software.
+
+Skills
+
+Computer proficiency with strong familiarity with Windows, Mac, and Linux.  Proficient at troubleshooting computer problems including connectivity, applications, and troubleshooting using error codes.  Good tech support skills allowing me to help other users solve their computer problems on their computers and on internet applications.  Strong ability to use the the internet to solve problems.
+
+Basic programming skills in Javascript, Java, Python, Ruby, C++, Lua, DCPU16 assembly, HTML
+
+Electrical Engineering Skills
+
+I know how to use a multimeter. I understand common electrical components and their uses.
+I am experienced in Arduino-based development.  I can design basic circuits and understand circuit diagrams. I can solder electrical components.
+"
