@@ -1,6 +1,6 @@
 **Andrew Dirksen** 42115 NW Wilkes St #B Banks, OR, 97106 **andrew@dirksen.com** 360 989 0001
 
-### Branch Technologies has me intrigued. I've wanted to work on automated building for some time now. My experience seems to be align pretty nicely with what Branch is doing. I've practiced robotics and I have worked on traingulation algorithms for data visualization. Please consider letting me work with you so I can build on the work you have done.
+Branch Technologies has me intrigued. I've wanted to work on automated building for some time now. My experience seems to be align pretty nicely with what Branch is doing. I've practiced robotics and I have worked on traingulation algorithms for data visualization. Please consider letting me work with you so I can build on the work you have done.
 
 Goals
 ===
