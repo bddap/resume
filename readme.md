@@ -25,7 +25,7 @@ Web dashboard with rest api for security product.
 
 ## Software QA Engineer - [Solutional](https://solutionalinc.com/) - 0.7 years
 
-QA, CI, integration tests, release managment for security product.
+QA, CI, integration tests, release management for security product.
 
 ## Software Engineering Associate - [Keyssa](http://www.keyssa.com/) (Formerly WaveConnex) - 2.5 years
 
