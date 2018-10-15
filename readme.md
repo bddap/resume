@@ -20,7 +20,7 @@ Contributions to open source projects. Personal open source projects include:
 
 ## Full Stack Software Engineer - [Solutional](https://solutionalinc.com/) - 0.8 years
 
-Dev for [Veranaca](https://www.vernaca.com/).
+Dev for [Vernaca](https://www.vernaca.com/).
 Web dashboard with rest api for security product.
 
 ## Software QA Engineer - [Solutional](https://solutionalinc.com/) - 0.7 years
