@@ -48,7 +48,7 @@ Scientific test automation using lab equipment including robotics.
 
 # Skills
 
-* Network communication (TCP|UDP)/IP
+* Network communication TCP/UDP IP
 * Imperative, declarative, OOP, functional
 * Asynchronous
 * Complex troubleshooting/debugging
