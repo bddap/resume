@@ -38,7 +38,7 @@ Native guis for hardware control and testing.
 
 Scientific test automation using lab equipment including robotics.
 
-## Education
+# Education
 
 - Internship at WaveConnex
 - Stack overflow, Wikipedia.
