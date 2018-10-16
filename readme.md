@@ -1,6 +1,6 @@
 # Andrew Dirksen
 
-Banks, OR, 97106 **andrew@dirksen.com** 360 989 0001
+Banks, OR **andrew@dirksen.com** 360 989 0001
 
 Software engineer who works well within a team or solo. Self-directed, can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Seeking software engineering role.
 
@@ -50,7 +50,7 @@ Scientific test automation using lab equipment. Used robot arm to automate inten
 
 # Education
 
-- Bachelor of Computer Science in progress. Attending Portland Community College; will transfer to Portland State University shortly.
+- Bachelor of Computer Science in progress. Attending Portland Community College; will transfer to Portland State University.
 - Internship at Keyssa
 - Stack Overflow.
 
