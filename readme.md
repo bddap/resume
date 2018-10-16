@@ -19,12 +19,12 @@ Software engineer who works well within a team or solo. Self-directed, can auton
 ## Full Stack Software Engineer - [Solutional](https://solutionalinc.com/) - April 2018 to Present
 
 - Interactive control and status reporting web dashboard written from scratch. Rust backend and REST API, React frontend.
-- Support maintainence and administration for 11 websites including company properties and customer sites.
+- Support maintenance and administration for 11 websites including company properties and customer sites.
 - Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included BLE event listener android app, an event database as Azure microservice, and a video documentation.
 
 ## Frontend Engineer - [Solutional](https://solutionalinc.com/) - January 2018 to April 2018
 
-- Worked on dev team for Laravel based site, [Vernaca](https://www.vernaca.com/). Developed aesthetic frontend components from designer mockups. Implemented user workflow interfaces.
+Worked on dev team for Laravel based site, [Vernaca](https://www.vernaca.com/). Developed aesthetic frontend components from designer mockups. Implemented user workflow interfaces.
 
 ## Software QA Engineer - [Solutional](https://solutionalinc.com/) - March 2017 to Present
 
@@ -46,7 +46,7 @@ Used C++ and Python for test automation, Python and JavaScript for GUIs and data
 
 ## Software Intern - [Keyssa](http://www.keyssa.com/) - May 2014 to August 2014
 
-Scientific test automation using lab equipment. Used robot arm to automate intensely time consuming data aqusition. Automation yeilded an order of magnitude more useful data. Wrote 3d visualization software for aquired data.
+Scientific test automation using lab equipment. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3d visualization software for acquired data.
 
 # Education
 
