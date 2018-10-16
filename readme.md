@@ -1,62 +1,65 @@
+Todo:
+
+- Describe desired role
+- Proofread
+
 # Andrew Dirksen
+
+[github](https://github.com/bddap)
 
 Banks, OR **andrew@dirksen.com** 360 989 0001
 
-Software engineer who works well within a team or solo. Self-directed, can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Metacognitive, autodidact. Years of development experience. Loves writing code in free time. Seeking software engineering role.
+Software engineer who works well within a team or solo. Self-directed; can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Metacognitive, autodidact. Loves writing code in free time. Seeking software engineering role.
 
 # Experience
 
 ## Open Source
 
 * [Automata](https://github.com/bddap/automata) Cellular automaton simulation in your terminal.
-* [Space Game](https://github.com/bddap/space-game-bimensal) Cellular automaton in 3d, rendered as voxels.
-* [Watch STL](https://github.com/bddap/watch-stl-rust) Display 3d object in native window, update when object is saved to disk.
-* [Auto GUI](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple json templates.
+* [Space Game](https://github.com/bddap/space-game-bimensal) Cellular automaton in 3D, rendered as voxels.
+* [Watch STL](https://github.com/bddap/watch-stl-rust) Display 3D object in native window, update when object is saved to disk.
+* [Auto GUI](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple JSON templates.
 * [Synth](https://github.com/bddap/haskell-synth) Music synthesis using pure functions.
 
-[github profile](https://github.com/bddap)
+## Software QA Engineer - [Formal Tech](https://formal.tech/) - March 2017 to Present
 
-## Full Stack Software Engineer - [Solutional](https://solutionalinc.com/) - April 2018 to Present
+- Primary responsibility for QA, CI, integration tests, and release management for the cyber security product of one of Solutional’s clients. Updated and expanded the suite of automated release tests and implemented the CI/CM process to reduce a multi-week, all-hands manual testing period to sub-week testing period with a small manual component.
+- Assembled physical software product build and test lab. Responsible for IT admin and maintenance of lab machines and environment.
+- Developed an interactive control and status reporting web dashboard from scratch for cyber security product. This effort used a Rust backend serving a REST API, and a React frontend.
 
-- Interactive control and status reporting web dashboard written from scratch. Rust backend and REST API, React frontend.
-- Support maintenance and administration for 11 websites including company properties and customer sites.
-- Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included BLE event listener android app, an event database as Azure micro-service, and video documentation.
+## Software Engineer / Systems Administrator - [Solutional](https://solutionalinc.com/) - January 2018 to Present
 
-## Frontend Engineer - [Solutional](https://solutionalinc.com/) - January 2018 to April 2018
-
-Worked on dev team for Laravel based site, [Vernaca](https://www.vernaca.com/). Developed aesthetic frontend components from designer mockups. Implemented user workflow interfaces.
-
-## Software QA Engineer - [Solutional](https://solutionalinc.com/) - March 2017 to Present
-
-- QA, CI, integration tests, release management for security product. Automated release tests to reduce a multi-week, all hands manual testing period to sub-week testing period with small manual component.
-
-- Assembled physical build/test lab. Responsible for IT admin and maintenance of said lab.
+- Took on different roles and responsibilities for internal and external customers of Solutional (a consultancy).
+- Individual contributor on software development team for Laravel based SaaS web application for one of Solutional's clients - [Vernaca](https://www.vernaca.com/). Developed aesthetic frontend components from designer mockups. Implemented user workflow interfaces.
+- Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included a BLE event listener android app, an event database as Azure micro-service, and video documentation.
+- Performed support, maintenance and administration for 11 websites including company properties and client sites.
 
 ## Software Engineering Associate - [Keyssa](http://www.keyssa.com/) - August 2014 to March 2017
 
-Scientific test automation interfacing with an extensive list of measurement hardware including an 8 DOF [robotic arm](http://www.robai.com/), spectrum analyzers, and programmable attenuators.
+Responsible for developing scientific test automation interfacing with an extensive list of measurement hardware including an 8 DOF [robotic arm](http://www.robai.com/), spectrum analyzers, and programmable attenuators.
 
 - Documented methods for repeatable results.
 - Wrote interactive visualization software for resultant data.
 - Built web interface for control of lab hardware and real time data visualization.
-- Built custom measurement equipment using 3d printed parts, microcontrollers and actuators.
-  Required measurement equipment was highly specialized and expensive so inventing tools in house reduced cost significantly.
+- Built custom measurement equipment using 3D printed parts, microcontrollers and actuators.
+  Required measurement equipment was highly specialized and expensive so inventing the tools in-house reduced cost significantly.
 - Wrote productivity boosting native GUIs for hardware control and testing.
 
-Used C++ and Python for test automation, Python and JavaScript for GUIs and data visualization.
+Used C++ and Python for test automation; Python and JavaScript were used for GUIs and data visualization.
 
 ## Software Intern - [Keyssa](http://www.keyssa.com/) - May 2014 to August 2014
 
-Scientific test automation using lab equipment. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3d visualization software for acquired data.
+Developed tools for scientific test automation using lab equipment. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3D visualization software for acquired data.
 
 # Education
 
-- Bachelor of Computer Science in progress. Attending Portland Community College; will transfer to Portland State University.
+- Bachelor of Computer Science in progress
+	- Attending Portland Community College.
+	- Planning to transfer to Portland State University.
 - Internship at Keyssa
-- Stack Overflow.
 
 # Technical Skills
 
-*Strong:* C++, Rust, Bash, Python, TCP/UDP IP, 3d graphics (native and web), Git, HTTP, Websockets, REST, React, Vue, CSS, SCSS, HTML, JS, 3d printing, complex troubleshooting/debugging, imperative, declarative, OOP, functional, asynchronous, Linux, Docker
+*Strong:* C++, Rust, Bash, Python, TCP/UDP IP, 3D graphics (native and web), Git, HTTP, Websockets, REST, React, Vue, CSS, SCSS, HTML, JS, 3D printing, complex troubleshooting/debugging, imperative, declarative, OOP, functional, asynchronous, Linux, Docker
 
-*Knowledgeable:* Assembly, Haskell, Java, Lua, Bluetooth/BLE, electrical engineering, firmware, SPI, parametric/programmatic CAD, robotics, mobile app development, cryptography, native GUIs
+*Knowledgeable:* Haskell, Java, Lua, Assembly, Bluetooth/BLE, firmware, SPI, parametric and programmatic CAD, robotics, mobile app development, cryptography, native GUIs
