@@ -1,74 +1,61 @@
 # Andrew Dirksen
 
-42115 NW Wilkes St #B Banks, OR, 97106 **andrew@dirksen.com** 360 989 0001
+Banks, OR, 97106 **andrew@dirksen.com** 360 989 0001
 
-Software engineer, works within a team or solo. Self directed, can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools. Troubleshooting ability.
+Software engineer who works well within a team or solo. Self-directed, can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Seeking software engineering role.
 
 # Experience
 
 ## Open Source
 
-Contributions to open source projects. Personal open source projects include:
-
 * [Automata](https://github.com/bddap/automata) Cellular automaton simulation in your terminal.
 * [Space Game](https://github.com/bddap/space-game-bimensal) Cellular automaton in 3d, rendered as voxels.
-* [Watch Stl](https://github.com/bddap/watch-stl-rust) Display 3d object in native window, update when object is saved to disk.
-* [Auto Gui](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple json templates.
+* [Watch STL](https://github.com/bddap/watch-stl-rust) Display 3d object in native window, update when object is saved to disk.
+* [Auto GUI](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple json templates.
 * [Synth](https://github.com/bddap/haskell-synth) Music synthesis using pure functions.
 
 [github profile](https://github.com/bddap)
 
-## Full Stack Software Engineer - [Solutional](https://solutionalinc.com/) - 0.8 years
+## Full Stack Software Engineer - [Solutional](https://solutionalinc.com/) - April 2018 to Present
 
-Dev for [Vernaca](https://www.vernaca.com/).
-Web dashboard with rest api for security product.
+- Interactive control and status reporting web dashboard written from scratch. Rust backend and REST API, React frontend.
+- Support maintainence and administration for 11 websites including company properties and customer sites.
+- Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included BLE event listener android app, an event database as Azure microservice, and a video documentation.
 
-## Software QA Engineer - [Solutional](https://solutionalinc.com/) - 0.7 years
+## Frontend Engineer - [Solutional](https://solutionalinc.com/) - January 2018 to April 2018
 
-QA, CI, integration tests, release management for security product.
+- Worked on dev team for Laravel based site, [Vernaca](https://www.vernaca.com/). Developed aesthetic frontend components from designer mockups. Implemented user workflow interfaces.
 
-## Software Engineering Associate - [Keyssa](http://www.keyssa.com/) (Formerly WaveConnex) - 2.5 years
+## Software QA Engineer - [Solutional](https://solutionalinc.com/) - March 2017 to Present
 
-Scientific test automation interfacing with an extensive list of measurement hardware including an 8 DOF [robotic arm](http://www.robai.com/), spectrum analysers, programmable attenuators.
-Documented methods for repeatable results.
-Wrote interacive visualisation software for resultant data. Used internally.
-Web interface for control of lab hardware as well as real time data visualization.
-Custom measurement equipment using 3d printed parts, microcontrollers, actuators.
-Native guis for hardware control and testing.
+QA, CI, integration tests, release management for security product. Automated release tests to reduce a multi-week, all hands manual testing period to sub-week testing period with small manual component.
 
-## Software Intern - WaveConnex - 0.5 years
+Assembled physical build/test lab and performed IT administration.
 
-Scientific test automation using lab equipment including robotics.
+## Software Engineering Associate - [Keyssa](http://www.keyssa.com/) - August 2014 to March 2017
+
+Scientific test automation interfacing with an extensive list of measurement hardware including an 8 DOF [robotic arm](http://www.robai.com/), spectrum analyzers, and programmable attenuators.
+
+- Documented methods for repeatable results.
+- Wrote interactive visualization software for resultant data.
+  Web interface for control of lab hardware as well as real time data visualization.
+- Built custom measurement equipment using 3d printed parts, microcontrollers and actuators.
+- Wrote native GUIs for hardware control and testing.
+
+Used C++ and Python for test automation, Python and JavaScript for GUIs and data visualization.
+
+## Software Intern - [Keyssa](http://www.keyssa.com/) - May 2014 to August 2014
+
+Scientific test automation using lab equipment. Used robot arm to automate intensely time consuming data aqusition. Automation yeilded an order of magnitude more useful data. Wrote 3d visualization software for aquired data.
 
 # Education
 
-- Internship at WaveConnex
-- Stack overflow, Wikipedia.
-- Bachelor of Computer Science in progress.
+- Bachelor of Computer Science in progress. Attending Portland Community College; will transfer to Portland State University shortly.
+- Internship at Keyssa
+- Stack Overflow.
 
-# Skills
+# Technical Skills
 
-* Network communication TCP/UDP IP
-* Imperative, declarative, OOP, functional
-* Asynchronous
-* Complex troubleshooting/debugging
-* Git development workflow
-* Web based and native 3D graphics
-* Hypertext servers, https, Websockets, REST
-* Low level hardware familiarity, SPI
-* Familiar with electrical engineering principals
-* Familiar with cryptography, cursory knowlege of api's for cryptography libraries
-* Familiar with blockchain tech
-* Embeded programming, hardware projects involving microcontrollers
-* Additive maufacturing (3d printing), parametric/programatic CAD
-* Robotics
-* Cross platform native gui dev
+*Strong:* C++, Rust, Bash, Python, TCP/UDP IP, 3d graphics (native and web), Git, HTTP, Websockets, REST, React, Vue, CSS, SCSS, HTML, JS, 3d printing, complex troubleshooting/debugging, imperative, declarative, OOP, functional, asynchronous, Linux, Docker
 
-# Tools
-
-* C, C++, Rust, Haskell, Assembly, Bash, Lua, Java, Python, etc.
-* Frontend. React, Vue, Css, Scss, html, js
-* Linux, incuding Ubuntu, Centos, NixOS, Fedora, Raspbian
-* git
-* Docker
-
+*Knowledgeable:* Assembly, Haskell, Java, Lua, Bluetooth/BLE, electrical engineering, firmware, SPI, parametric/programmatic CAD, robotics, mobile app development, cryptography, native GUIs
