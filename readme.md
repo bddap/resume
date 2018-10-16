@@ -2,7 +2,7 @@
 
 Banks, OR **andrew@dirksen.com** 360 989 0001
 
-Software engineer who works well within a team or solo. Self-directed, can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Seeking software engineering role.
+Software engineer who works well within a team or solo. Self-directed, can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Metacognitive, autodidact. Years of development experience. Loves writing code in free time. Seeking software engineering role.
 
 # Experience
 
@@ -28,9 +28,9 @@ Worked on dev team for Laravel based site, [Vernaca](https://www.vernaca.com/). 
 
 ## Software QA Engineer - [Solutional](https://solutionalinc.com/) - March 2017 to Present
 
-QA, CI, integration tests, release management for security product. Automated release tests to reduce a multi-week, all hands manual testing period to sub-week testing period with small manual component.
+- QA, CI, integration tests, release management for security product. Automated release tests to reduce a multi-week, all hands manual testing period to sub-week testing period with small manual component.
 
-Assembled physical build/test lab and performed IT administration.
+- Assembled physical build/test lab. Responsible for IT admin and maintenance of said lab.
 
 ## Software Engineering Associate - [Keyssa](http://www.keyssa.com/) - August 2014 to March 2017
 
@@ -38,9 +38,10 @@ Scientific test automation interfacing with an extensive list of measurement har
 
 - Documented methods for repeatable results.
 - Wrote interactive visualization software for resultant data.
-  Web interface for control of lab hardware as well as real time data visualization.
+- Built web interface for control of lab hardware and real time data visualization.
 - Built custom measurement equipment using 3d printed parts, microcontrollers and actuators.
-- Wrote native GUIs for hardware control and testing.
+  Required measurement equipment was highly specialized and expensive so inventing tools in house reduced cost significantly.
+- Wrote productivity boosting native GUIs for hardware control and testing.
 
 Used C++ and Python for test automation, Python and JavaScript for GUIs and data visualization.
 
