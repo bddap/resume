@@ -20,7 +20,7 @@ Software engineer who works well within a team or solo. Self-directed, can auton
 
 - Interactive control and status reporting web dashboard written from scratch. Rust backend and REST API, React frontend.
 - Support maintenance and administration for 11 websites including company properties and customer sites.
-- Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included BLE event listener android app, an event database as Azure microservice, and a video documentation.
+- Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included BLE event listener android app, an event database as Azure micro-service, and video documentation.
 
 ## Frontend Engineer - [Solutional](https://solutionalinc.com/) - January 2018 to April 2018
 
