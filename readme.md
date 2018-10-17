@@ -16,20 +16,20 @@ Software engineer who works well within a team or solo. Self-directed; can auton
 * [Auto GUI](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple JSON templates.
 * [Synth](https://github.com/bddap/haskell-synth) Music synthesis using pure functions.
 
-## Software QA Engineer - [Formal Tech, Inc.](https://formal.tech/) - March 2017 to Present
+## Software QA Engineer - [Formal Tech, Inc.](https://formal.tech/) <span style="float: right;">March 2017 to Present</span>
 
 - Primary responsibility for QA, CI, integration tests, and release management for a cyber security product. Updated and expanded the suite of automated release tests and implemented the CI/CM process to reduce a multi-week, all-hands manual testing period to sub-week testing period with a small manual component.
 - Assembled physical software product build and test lab. Responsible for IT admin and maintenance of lab machines and environment.
 - Developed an interactive control and status reporting web dashboard from scratch for sales demos and evauations of [CyberChaff](https://galois.com/project/cyberchaff/) (cyber security product). Completed this effort with a Rust backend serving a React frontend, and a REST API.
 
-## Software Engineer / Systems Administrator - [Solutional, Inc.](https://solutionalinc.com/) - January 2018 to Present
+## Software Engineer / Systems Administrator - [Solutional, Inc.](https://solutionalinc.com/) <span style="float: right;">January 2018 to Present</span>
 
 - Took on different roles and responsibilities for internal and external customers of Solutional (a consultancy).
 - Individual contributor on software development team for Laravel based SaaS web application for one of Solutional's clients - [Vernaca](https://www.vernaca.com/). Developed aesthetic frontend components from designer mockups. Implemented user workflow interfaces.
 - Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included a BLE event listener android app, an event database as Azure micro-service, and video documentation.
 - Supported maintenance and administration for 11 websites including company properties and client sites.
 
-## Software Intern / Software Engineering Associate - [Keyssa, Inc.](http://www.keyssa.com/) - May 2014 to March 2017
+## Software Intern / Software Engineering Associate - [Keyssa, Inc.](http://www.keyssa.com/) <span style="float: right;">May 2014 to March 2017</span>
 
 Started as intern, then hired full-time as engineering associate.
 
