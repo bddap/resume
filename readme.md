@@ -33,7 +33,7 @@ Software engineer who works well within a team or solo. Self-directed; can auton
 
 Started as intern, then hired full-time as engineering associate.
 
-Developed tools during internship for physical test automation. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3D visualization software for acquired data.
+- Developed tools during internship for physical test automation. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3D visualization software for acquired data.
 
 As engineering associate, responsible for developing scientific test automation interfacing with an extensive list of measurement hardware including an 8 DOF [robotic arm](http://www.robai.com/), spectrum analyzers, and programmable attenuators.
 
