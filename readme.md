@@ -57,11 +57,15 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 *Strong:*
 
-> Rust, Python, C++, Bash, 3D graphics (native and web), Git, HTTP, Websockets, REST, React, Vue, CSS, SCSS, HTML, JS, 3D printing, complex troubleshooting/debugging, imperative, declarative, OOP, functional, asynchronous, Linux, Docker
+<div class="indent">
+Rust, Python, C++, Bash, 3D graphics (native and web), Git, HTTP, Websockets, REST, React, Vue, CSS, SCSS, HTML, JS, 3D printing, complex troubleshooting/debugging, imperative, declarative, OOP, functional, asynchronous, Linux, Docker
+</div>
 
 *Knowledgeable:*
 
-> TCP/UDP IP, Haskell, Java, Lua, Assembly, Bluetooth/BLE, firmware, SPI, parametric and programmatic CAD, robotics, mobile app development, cryptography, native GUIs
+<div class="indent">
+TCP/UDP IP, Haskell, Java, Lua, Assembly, Bluetooth/BLE, firmware, SPI, parametric and programmatic CAD, robotics, mobile app development, cryptography, native GUIs
+</div>
 
 <style>
 h2 {
@@ -70,5 +74,8 @@ h2 {
 }
 span.date {
 	float: right;
+}
+div.indent {
+	padding-left: 4em;
 }
 </style>
