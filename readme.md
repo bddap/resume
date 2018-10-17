@@ -10,13 +10,11 @@ Software engineer who works well within a team or solo. Self-directed; can auton
 
 ## Open Source
 
-|                                                            |                                                                               |
-| -                                                          | :-                                                                            |
-| [Automata](https://github.com/bddap/automata)              | Cellular automaton simulation in your terminal.                               |
-| [Space Game](https://github.com/bddap/space-game-bimensal) | Cellular automaton in 3D, rendered as voxels.                                 |
-| [Watch STL](https://github.com/bddap/watch-stl-rust)       | Display 3D object in native window, update when object is saved to disk.      |
-| [Auto GUI](https://github.com/bddap/auto-gui)              | Cross platform user dialogs dynamically generated from simple JSON templates. |
-| [Synth](https://github.com/bddap/haskell-synth)            | Music synthesis using pure functions.                                         |
+* [Automata](https://github.com/bddap/automata) Cellular automaton simulation in your terminal.
+* [Space Game](https://github.com/bddap/space-game-bimensal) Cellular automaton in 3D, rendered as voxels.
+* [Watch STL](https://github.com/bddap/watch-stl-rust) Display 3D object in native window, update when object is saved to disk.
+* [Auto GUI](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple JSON templates.
+* [Synth](https://github.com/bddap/haskell-synth) Music synthesis using pure functions.
 
 ## Software QA Engineer - [Formal Tech, Inc.](https://formal.tech/) <span style="display: none;">-</span> <span class="date">March 2017 to Present</span> 
 
