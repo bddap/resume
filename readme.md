@@ -2,7 +2,7 @@
 
 Banks, OR **andrew@dirksen.com** 360 989 0001
 
-[github](https://github.com/bddap)
+[github.com/bddap](https://github.com/bddap)
 
 Software engineer who works well within a team or solo. Self-directed; can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Metacognitive, autodidact. Loves writing code in free time. Seeking software engineering role with systems development in Rust.
 
