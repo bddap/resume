@@ -29,7 +29,7 @@ Software engineer who works well within a team or solo. Self-directed; can auton
 - Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included a BLE event listener android app, an event database as Azure micro-service, and video documentation.
 - Supported maintenance and administration for 11 websites including company properties and client sites.
 
-## Software Intern / Software Engineering Associate - [Keyssa](http://www.keyssa.com/) - May 2014 to March 2017
+## Software Intern / Software Engineering Associate - [Keyssa, Inc.](http://www.keyssa.com/) - May 2014 to March 2017
 
 Started as intern, then hired full-time as engineering associate.
 
