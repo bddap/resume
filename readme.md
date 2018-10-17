@@ -66,6 +66,7 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 <style>
 h2 {
 	overflow-y: auto;
+   	font-size: 1.4em;
 }
 span.date {
 	float: right;
