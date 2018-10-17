@@ -4,7 +4,7 @@
 
 Banks, OR **andrew@dirksen.com** 360 989 0001
 
-Software engineer who works well within a team or solo. Self-directed; can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Metacognitive, autodidact. Loves writing code in free time. Seeking software engineering role.
+Software engineer who works well within a team or solo. Self-directed; can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Metacognitive, autodidact. Loves writing code in free time. Seeking software engineering role with systems development in Rust.
 
 # Experience
 
@@ -18,9 +18,9 @@ Software engineer who works well within a team or solo. Self-directed; can auton
 
 ## Software QA Engineer - [Formal Tech, Inc.](https://formal.tech/) - March 2017 to Present
 
-- Primary responsibility for QA, CI, integration tests, and release management for the cyber security product of one of Solutional’s clients. Updated and expanded the suite of automated release tests and implemented the CI/CM process to reduce a multi-week, all-hands manual testing period to sub-week testing period with a small manual component.
+- Primary responsibility for QA, CI, integration tests, and release management for a cyber security product. Updated and expanded the suite of automated release tests and implemented the CI/CM process to reduce a multi-week, all-hands manual testing period to sub-week testing period with a small manual component.
 - Assembled physical software product build and test lab. Responsible for IT admin and maintenance of lab machines and environment.
-- Developed an interactive control and status reporting web dashboard from scratch for cyber security product. This effort used a Rust backend serving a REST API, and a React frontend.
+- Developed an interactive control and status reporting web dashboard from scratch for sales demos and evauations of [CyberChaff](https://galois.com/project/cyberchaff/) (cyber security product). Completed this effort with a Rust backend serving a React frontend, and a REST API.
 
 ## Software Engineer / Systems Administrator - [Solutional, Inc.](https://solutionalinc.com/) - January 2018 to Present
 
@@ -33,28 +33,32 @@ Software engineer who works well within a team or solo. Self-directed; can auton
 
 Started as intern, then hired full-time as engineering associate.
 
-Developed tools during internship for scientific test automation using lab equipment. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3D visualization software for acquired data.
+Developed tools during internship for physical test automation. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3D visualization software for acquired data.
 
 As engineering associate, responsible for developing scientific test automation interfacing with an extensive list of measurement hardware including an 8 DOF [robotic arm](http://www.robai.com/), spectrum analyzers, and programmable attenuators.
 
 - Documented methods for repeatable results.
 - Wrote interactive visualization software for resultant data.
 - Built web interface for control of lab hardware and real time data visualization.
-- Built custom measurement equipment using 3D printed parts, microcontrollers and actuators.
+- Built custom measurement equipment using 3D printed parts, microcontrollers, and actuators.
   Required measurement equipment was highly specialized and expensive thus inventing the tools in-house reduced cost significantly.
 - Wrote productivity boosting native GUIs for hardware control and testing.
 
-Used C++ and Python for test automation; Python and JavaScript were used for GUIs and data visualization.
+Used C++ and Python for test automation; Python, C++, and JavaScript were used for GUIs and data visualization.
 
 # Education
 
 - Bachelor of Computer Science in progress
-	- Attending Portland Community College.
+	- Attending Portland Community College
 	- Planning to transfer to Portland State University.
 - Internship at Keyssa
 
 # Technical Skills
 
-*Strong:* Rust, Python, C++, Bash, TCP/UDP IP, 3D graphics (native and web), Git, HTTP, Websockets, REST, React, Vue, CSS, SCSS, HTML, JS, 3D printing, complex troubleshooting/debugging, imperative, declarative, OOP, functional, asynchronous, Linux, Docker.
+*Strong:*
 
-*Knowledgeable:* Haskell, Java, Lua, Assembly, Bluetooth/BLE, firmware, SPI, parametric and programmatic CAD, robotics, mobile app development, cryptography, native GUIs
+	Rust, Python, C++, Bash, 3D graphics (native and web), Git, HTTP, Websockets, REST, React, Vue, CSS, SCSS, HTML, JS, 3D printing, complex troubleshooting/debugging, imperative, declarative, OOP, functional, asynchronous, Linux, Docker
+
+*Knowledgeable:*
+
+	TCP/UDP IP, Haskell, Java, Lua, Assembly, Bluetooth/BLE, firmware, SPI, parametric and programmatic CAD, robotics, mobile app development, cryptography, native GUIs
