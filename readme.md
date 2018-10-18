@@ -20,7 +20,7 @@ Software engineer who works well within a team or solo. Self-directed; can auton
 
 - Primary responsibility for QA, CI, integration tests, and release management for a cyber security product. Updated and expanded the suite of automated release tests and implemented the CI/CM process to reduce a multi-week, all-hands manual testing period to sub-week testing period with a small manual component.
 - Assembled physical software product build and test lab. Responsible for IT admin and maintenance of lab machines and environment.
-- Developed an interactive control and status reporting web dashboard from scratch for sales demos and evauations of [CyberChaff](https://galois.com/project/cyberchaff/) (cyber security product). Completed this effort with a Rust backend serving a React frontend, and a REST API.
+- Developed an interactive control and status reporting web dashboard from scratch for sales demos and evaluations of [CyberChaff](https://galois.com/project/cyberchaff/) (cyber security product). Completed this effort with a Rust backend serving a React frontend, and a REST API.
 
 ## Software Engineer / Systems Administrator - [Solutional, Inc.](https://solutionalinc.com/) <span style="display: none;">-</span> <span class="date">January 2018 to Present</span>
 
