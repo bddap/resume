@@ -1,10 +1,11 @@
 # Andrew Dirksen
 
-Banks, OR **andrew@dirksen.com** 360 989 0001
-
+Banks, OR<br/>
+andrew@dirksen.com<br/>
+\(360\) 989-0001<br/>
 [github.com/bddap](https://github.com/bddap)
 
-Software engineer who works well within a team or solo. Self-directed; can autonomously take a project from requirements to completion. Great intuition for new hardware and software tools along with strong troubleshooting ability. Metacognitive, autodidact. Loves writing code in free time. Seeking software engineering role with systems development in Rust.
+Software engineer who works well within a team or solo. Great intuition for new hardware and software tools along with strong troubleshooting ability. Metacognitive, autodidact. Loves writing code in free time. Seeking role as software engineer in a fast moving organization.
 
 # Experience
 
@@ -16,24 +17,22 @@ Software engineer who works well within a team or solo. Self-directed; can auton
 * [Auto GUI](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple JSON templates.
 * [Synth](https://github.com/bddap/haskell-synth) Music synthesis using pure functions.
 
-## Software QA Engineer - [Formal Tech, Inc.](https://formal.tech/) <span style="display: none;">-</span> <span class="date">March 2017 to Present</span> 
+## Software QA Engineer - [Formaltech, Inc.](https://formal.tech/) <span style="display: none;">-</span> <span class="date">March 2017 to Present</span>
 
-- Primary responsibility for QA, CI, integration tests, and release management for a cyber security product. Updated and expanded the suite of automated release tests and implemented the CI/CM process to reduce a multi-week, all-hands manual testing period to sub-week testing period with a small manual component.
+- Primarily responsible for QA, CI, integration tests, and release management for a cyber security product. Updated and expanded the suite of automated release tests and implemented the CI/CM process to reduce a multi-week, all-hands manual testing period to sub-week testing period with a small manual component.
 - Assembled physical software product build and test lab. Responsible for IT admin and maintenance of lab machines and environment.
 - Developed an interactive control and status reporting web dashboard from scratch for sales demos and evaluations of [CyberChaff](https://galois.com/project/cyberchaff/) (cyber security product). Completed this effort with a Rust backend serving a React frontend, and a REST API.
 
 ## Software Engineer / Systems Administrator - [Solutional, Inc.](https://solutionalinc.com/) <span style="display: none;">-</span> <span class="date">January 2018 to Present</span>
 
-- Took on different roles and responsibilities for internal and external customers of Solutional (a consultancy).
+- Took on different roles and responsibilities for internal and external customers of Solutional.
 - Individual contributor on software development team for Laravel based SaaS web application for one of Solutional's clients - [Vernaca](https://www.vernaca.com/). Developed aesthetic frontend components from designer mockups. Implemented user workflow interfaces.
 - Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included a BLE event listener android app, an event database as Azure micro-service, and video documentation.
 - Supported maintenance and administration for 11 websites including company properties and client sites.
 
 ## Software Intern / Software Engineering Associate - [Keyssa, Inc.](http://www.keyssa.com/) <span style="display: none;">-</span> <span class="date">May 2014 to March 2017</span>
 
-Started as intern, then hired full-time as engineering associate.
-
-- Developed tools during internship for physical test automation. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3D visualization software for acquired data.
+Started as intern, then hired full-time as engineering associate. Developed tools during internship for physical test automation. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3D visualization software for acquired data.
 
 As engineering associate, responsible for developing scientific test automation interfacing with an extensive list of measurement hardware including an 8 DOF [robotic arm](http://www.robai.com/), spectrum analyzers, and programmable attenuators.
 
@@ -57,8 +56,8 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 ***Strong:***
 
-<p class="indent">Rust, Python, C++, Bash, 3D graphics (native and web), Git, HTTP, Websockets, REST, React, Vue, CSS, SCSS, HTML, JS, 3D printing, complex troubleshooting/debugging, imperative, declarative, OOP, functional, asynchronous, Linux, Docker</p>
+<p class="indent">Rust, Python, Git, CSS, HTML, JS, complex troubleshooting/debugging, 3D printing, imperative, declarative, OOP, functional</p>
 
 ***Knowledgeable:***
 
-<p class="indent">TCP/UDP IP, Haskell, Java, Lua, Assembly, Bluetooth/BLE, firmware, SPI, parametric and programmatic CAD, robotics, mobile app development, cryptography, native GUIs</p>
+<p class="indent">Linux, C++, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, mobile app development, cryptography, native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker</p>
