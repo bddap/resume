@@ -50,6 +50,7 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 - Bachelor of Computer Science in progress
 	- Attending Portland Community College
 	- Planning to transfer to Portland State University.
+- Associate of General Studies from Portland Community College
 - Internship at Keyssa
 
 # Technical Skills
