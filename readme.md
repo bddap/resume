@@ -57,7 +57,7 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 ***Strong:***
 
-<p class="indent">Rust, Python, Git, CSS, HTML, JS, C/C++ \[1\], complex troubleshooting/debugging, 3D printing, imperative, declarative, OOP, functional</p>
+<p class="indent">Rust, Python, Git, CSS, HTML, JS, C/C++<a title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, complex troubleshooting/debugging, 3D printing, imperative, declarative, OOP, functional</p>
 
 ***Knowledgeable:***
 
