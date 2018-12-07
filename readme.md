@@ -57,8 +57,8 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 ***Strong:***
 
-<p class="indent">Rust, Python, Git, CSS, HTML, JS, complex troubleshooting/debugging, 3D printing, imperative, declarative, OOP, functional</p>
+<p class="indent">Rust, Python, Git, CSS, HTML, JS, C/C++, complex troubleshooting/debugging, 3D printing, imperative, declarative, OOP, functional</p>
 
 ***Knowledgeable:***
 
-<p class="indent">Linux, C++, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, mobile app development, cryptography, native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker</p>
+<p class="indent">Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, mobile app development, cryptography, native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker</p>
