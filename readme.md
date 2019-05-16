@@ -1,6 +1,6 @@
 # Andrew Dirksen
 
-Banks, OR<br/>
+San Fransisco, CA<br/>
 andrew@dirksen.com<br/>
 \(360\) 989-0001<br/>
 [github.com/bddap](https://github.com/bddap)
@@ -17,20 +17,28 @@ Software engineer who works well within a team or solo. Great intuition for new 
 * [Auto GUI](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple JSON templates.
 * [Synth](https://github.com/bddap/haskell-synth) Music synthesis using pure functions.
 
-## Software QA Engineer - [Formaltech, Inc.](https://formal.tech/) <span style="display: none;">-</span> <span class="date">March 2017 to Present</span>
+## Rust Software Engineer - [Layer1](https://www.layer1.capital/) <span style="display: none;">-</span> <span class="date">January 2019 to Present</span>
+
+- Primarily contributed to the open source cryptocurrency project [Grin](https://grin-tech.org/).
+- Created a prototype REST interface to the [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network).
+- Developed and published open source libraries including [easy-jsonrpc](https://crates.io/crates/easy-jsonrpc) and [pow](https://crates.io/crates/pow).
+- Developed an [AEAD](https://en.wikipedia.org/wiki/Authenticated_encryption) datagram [research prototype](https://github.com/layer1capital/reprehensible) for use in interactive Grin transactions.
+- Developed an [experimental library](https://github.com/bddap/sealed) for fast development of cryptographic protocols.
+
+## Software QA Engineer - [Formaltech](https://formal.tech/) <span style="display: none;">-</span> <span class="date">March 2017 to January 2019</span>
 
 - Primarily responsible for QA, CI, integration tests, and release management for a cyber security product. Updated and expanded the suite of automated release tests and implemented the CI/CM process to reduce a multi-week, all-hands manual testing period to sub-week testing period with a small manual component.
 - Assembled physical software product build and test lab. Responsible for IT admin and maintenance of lab machines and environment.
 - Developed an interactive control and status reporting web dashboard from scratch for sales demos and evaluations of [CyberChaff](https://galois.com/project/cyberchaff/) (cyber security product). Completed this effort with a Rust backend serving a React frontend, and a REST API.
 
-## Software Engineer / Systems Administrator - [Solutional, Inc.](https://solutionalinc.com/) <span style="display: none;">-</span> <span class="date">January 2018 to Present</span>
+## Software Engineer / Systems Administrator - [Solutional](https://solutionalinc.com/) <span style="display: none;">-</span> <span class="date">January 2018 to January 2019</span>
 
 - Took on different roles and responsibilities for internal and external customers of Solutional.
 - Individual contributor on software development team for Laravel based SaaS web application for one of Solutional's clients - [Vernaca](https://www.vernaca.com/). Developed aesthetic frontend components from designer mockups. Implemented user workflow interfaces.
 - Created foundational tools for [Digital Health Collaborative Connectathon Student Event](https://www.dhcolab.com/events/). Tools included a BLE event listener android app, an event database as Azure micro-service, and video documentation.
 - Supported maintenance and administration for 11 websites including company properties and client sites.
 
-## Software Intern / Software Engineering Associate - [Keyssa, Inc.](http://www.keyssa.com/) <span style="display: none;">-</span> <span class="date">May 2014 to March 2017</span>
+## Software Intern / Software Engineering Associate - [Keyssa](http://www.keyssa.com/) <span style="display: none;">-</span> <span class="date">May 2014 to March 2017</span>
 
 Started as intern, then hired full-time as engineering associate. Developed tools during internship for physical test automation. Used robot arm to automate intensely time consuming data acquisition. Automation yielded an order of magnitude more useful data. Wrote 3D visualization software for acquired data.
 
@@ -49,16 +57,15 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 - Bachelor of Computer Science in progress
 - Associate of General Studies from Portland Community College
-- Internship at Keyssa
 
 # Technical Skills
 
 ***Strong:***
 
-<p class="indent">Rust, Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, complex troubleshooting/debugging, 3D printing, imperative, declarative, OOP, functional</p>
+<p class="indent">Rust, Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, complex troubleshooting/debugging, imperative, declarative, OOP, functional</p>
 
 ***Knowledgeable:***
 
-<p class="indent">Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, mobile app development, cryptography, native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker</p>
+<p class="indent">Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, mobile app development, cryptography, native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker, 3D printing, Bitcoin, Lightning, Grin, Blockchain, WebAssembly</p>
 
 \[1\]: <i id="footnote1">28 college credits in C/C++ with 4.0 GPA</i>
