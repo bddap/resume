@@ -55,7 +55,6 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 # Education
 
-- Bachelor of Computer Science in progress
 - Associate of General Studies from Portland Community College
 
 # Technical Skills
