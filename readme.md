@@ -19,7 +19,7 @@ Software engineer who works well within a team or solo. Great intuition for new 
 
 ## Rust Software Engineer - [Layer1](https://www.layer1.capital/) <span style="display: none;">-</span> <span class="date">January 2019 to Present</span>
 
-- Primarily contributed to the open source cryptocurrency project [Grin](https://grin-tech.org/).
+- Primarily contributed to the open source cryptocurrency project [Grin](https://grin.mw).
 - Created a prototype REST interface to the [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network).
 - Developed and published open source libraries including [easy-jsonrpc](https://crates.io/crates/easy-jsonrpc) and [pow](https://crates.io/crates/pow).
 - Developed an [AEAD](https://en.wikipedia.org/wiki/Authenticated_encryption) datagram [research prototype](https://github.com/layer1capital/reprehensible) for use in interactive Grin transactions.
