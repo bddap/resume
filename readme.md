@@ -1,11 +1,11 @@
 # Andrew Dirksen
 
-San Fransisco, CA<br/>
+Beaverton, OR<br/>
 andrew@dirksen.com<br/>
 \(360\) 989-0001<br/>
 [github.com/bddap](https://github.com/bddap)
 
-Software engineer who works well within a team or solo. Great intuition for new hardware and software tools along with strong troubleshooting ability. Metacognitive, autodidact. Loves writing code in free time. Seeking role as software engineer in a fast moving organization.
+Software engineer adaptable to team or solo development. Writing rust code since version 1.26.0. Metacognitive, autodidact. Loves writing open source. Seeking role as rust software engineer near Portland, Oregon or remote.
 
 # Experience
 
@@ -16,8 +16,18 @@ Software engineer who works well within a team or solo. Great intuition for new 
 * [Watch STL](https://github.com/bddap/watch-stl-rust) Display 3D object in native window, update when object is saved to disk.
 * [Auto GUI](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple JSON templates.
 * [Synth](https://github.com/bddap/haskell-synth) Music synthesis using pure functions.
+* [Grin](https://github.com/mimblewimble/grin) Implementaion of Mimblewimble, a privacy preserving blockchain protocol with a novel approach to chain-state minimization.
+* [Substrate Warmup](https://github.com/docknetwork/substrate-warmup) Subsrate-based blockchian proof of concept.
+* [Miltibase Cli](https://github.com/docknetwork/multibase-cli) Small command line utility for conversions between multibase encoded data.
+* [Substrate](https://github.com/paritytech/substrate) blockchain framework. [Minor contributions](https://github.com/pulls?q=author%3Abddap+repo%3Aparitytech%2Fsubstrate).
+* [More](https://github.com/pulls?q=author%3Abddap)
 
-## Rust Software Engineer - [Layer1](https://www.layer1.capital/) <span style="display: none;">-</span> <span class="date">January 2019 to Present</span>
+## Core Rust Developer - [Dock](https://dock.io/) <span style="display: none;">-</span> <span class="date">July 2019 to Present</span>
+
+- Participated in R&D. Implemented research prototypes including a generic PoA blockchain which was publicly deployed as a testnet.
+- Worked on things yet to be released. Stay tuned!
+
+## Rust Software Engineer - [Layer1](https://www.layer1.capital/) <span style="display: none;">-</span> <span class="date">January 2019 to July 2019</span>
 
 - Primarily contributed to the open source cryptocurrency project [Grin](https://grin.mw).
 - Created a prototype REST interface to the [Lightning Network](https://en.wikipedia.org/wiki/Lightning_Network).
@@ -59,12 +69,12 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 # Technical Skills
 
-***Strong:***
+***Preferred:***
 
-<p class="indent">Rust, Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, complex troubleshooting/debugging, imperative, declarative, OOP, functional</p>
+<p class="indent">Rust</p>
 
 ***Knowledgeable:***
 
-<p class="indent">Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, mobile app development, cryptography, native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker, 3D printing, Bitcoin, Lightning, Grin, Blockchain, WebAssembly</p>
+<p class="indent">Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Quic, Noise Protocol Framework, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, cryptography (use of), native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker, 3D printing, Bitcoin, Lightning, Grin, Blockchain, WebAssembly, Substrate Blockchain Framework, OOP, functional, imperative</p>
 
 \[1\]: <i id="footnote1">28 college credits in C/C++ with 4.0 GPA</i>
