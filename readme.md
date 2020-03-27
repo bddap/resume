@@ -5,7 +5,7 @@ andrew@dirksen.com<br/>
 \(360\) 989-0001<br/>
 [github.com/bddap](https://github.com/bddap)
 
-Software engineer adaptable to team or solo development. Writing rust code since version 1.26.0. Metacognitive, autodidact. Loves writing open source. Seeking role as rust software engineer near Portland, Oregon or remote.
+Software engineer adaptable to team or solo development. Writing Rust code since version 1.26.0. Metacognitive, autodidact. Loves writing open source. Seeking role as Rust software engineer near Portland, Oregon or remote.
 
 # Experience
 
