@@ -5,7 +5,7 @@ andrew@dirksen.com<br/>
 \(360\) 989-0001<br/>
 [github.com/bddap](https://github.com/bddap)
 
-Software engineer adaptable to team or solo development. Writing Rust code since version 1.26.0. Metacognitive, autodidact. Loves writing open source. Seeking role as Rust software engineer near Portland, Oregon or remote.
+Software engineer adaptable to team or solo development. Metacognitive, autodidact. Loves writing open source. Seeking role as Rust software engineer near Portland, Oregon or remote.
 
 # Experience
 
@@ -18,14 +18,14 @@ Software engineer adaptable to team or solo development. Writing Rust code since
 * [Synth](https://github.com/bddap/haskell-synth) Music synthesis using pure functions.
 * [Grin](https://github.com/mimblewimble/grin) Implementaion of Mimblewimble, a privacy preserving blockchain protocol with a novel approach to chain-state minimization.
 * [Substrate Warmup](https://github.com/docknetwork/substrate-warmup) Subsrate-based blockchian proof of concept.
-* [Miltibase Cli](https://github.com/docknetwork/multibase-cli) Small command line utility for conversions between multibase encoded data.
+* [Multibase Cli](https://github.com/docknetwork/multibase-cli) Small command line utility for conversions between multibase encoded data.
 * [Substrate](https://github.com/paritytech/substrate) Blockchain framework. [Minor contributions](https://github.com/pulls?q=author%3Abddap+repo%3Aparitytech%2Fsubstrate).
 * [More](https://github.com/pulls?q=author%3Abddap)
 
 ## Core Rust Developer - [Dock](https://dock.io/) <span style="display: none;">-</span> <span class="date">July 2019 to Present</span>
 
 - Participated in R&D. Implemented research prototypes including a generic PoA blockchain which was publicly deployed as a testnet.
-- Worked on things yet to be released. Stay tuned!
+- Key role in design and implementation of the [Northill](https://blog.dock.io/dock-release-northill-test-net-2) testnet.
 
 ## Rust Software Engineer - [Layer1](https://www.layer1.capital/) <span style="display: none;">-</span> <span class="date">January 2019 to July 2019</span>
 
