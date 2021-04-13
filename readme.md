@@ -19,8 +19,8 @@ Software engineer adaptable to team or solo development. Metacognitive, autodida
 * [Grin](https://github.com/mimblewimble/grin) Implementaion of Mimblewimble, a privacy preserving blockchain protocol with a novel approach to chain-state minimization.
 * [Substrate Warmup](https://github.com/docknetwork/substrate-warmup) Subsrate-based blockchian proof of concept.
 * [Multibase Cli](https://github.com/docknetwork/multibase-cli) Small command line utility for conversions between multibase encoded data.
-* [Substrate](https://github.com/paritytech/substrate) Blockchain framework. [Minor contributions](https://github.com/pulls?q=author%3Abddap+repo%3Aparitytech%2Fsubstrate).
-* [More](https://github.com/pulls?q=author%3Abddap)
+* [Substrate](https://github.com/paritytech/substrate) Blockchain framework. [Minor contributions](https://github.com/paritytech/substrate/pulls?q=is%3Apr+author%3Abddap).
+* [More](https://github.com/bddap)
 
 ## Core Rust Developer - [Dock](https://dock.io/) <span style="display: none;">-</span> <span class="date">July 2019 to Present</span>
 
