@@ -3,7 +3,8 @@
 Beaverton, OR<br/>
 andrew@dirksen.com<br/>
 \(360\) 989-0001<br/>
-[github.com/bddap](https://github.com/bddap)
+[github.com/bddap](https://github.com/bddap)<br/>
+[linkedin.com/in/andrew-dirksen](https://www.linkedin.com/in/andrew-dirksen)
 
 Software engineer adaptable to team or solo development. Metacognitive, autodidact. Writing professional software since 2014, using Rust since 2018. Loves writing open source. Seeking role as Rust software engineer near Portland, Oregon or remote.
 
@@ -11,21 +12,22 @@ Software engineer adaptable to team or solo development. Metacognitive, autodida
 
 ## Open Source
 
+* [Rify](https://github.com/docknetwork/rify) Machine reasoning library implemented in Rust.
+* [Multibase Cli](https://github.com/docknetwork/multibase-cli) Small command line utility for conversions between multibase encoded data.
 * [Automata](https://github.com/bddap/automata) Cellular automaton simulation in your terminal.
 * [Space Game](https://github.com/bddap/space-game-bimensal) Cellular automaton in 3D, rendered as voxels.
 * [Watch STL](https://github.com/bddap/watch-stl-rust) Display 3D object in native window, update when object is saved to disk.
-* [Auto GUI](https://github.com/bddap/auto-gui) Cross platform user dialogs dynamically generated from simple JSON templates.
-* [Synth](https://github.com/bddap/haskell-synth) Music synthesis using pure functions.
-* [Grin](https://github.com/mimblewimble/grin) Implementaion of Mimblewimble, a privacy preserving blockchain protocol with a novel approach to chain-state minimization.
-* [Substrate Warmup](https://github.com/docknetwork/substrate-warmup) Subsrate-based blockchian proof of concept.
-* [Multibase Cli](https://github.com/docknetwork/multibase-cli) Small command line utility for conversions between multibase encoded data.
-* [Substrate](https://github.com/paritytech/substrate) Blockchain framework. [Minor contributions](https://github.com/paritytech/substrate/pulls?q=is%3Apr+author%3Abddap).
+* [Synth](https://github.com/bddap/synth0x01) My personal "music" generation playground.
+* [Grin](https://github.com/mimblewimble/grin) Implementation of Mimblewimble, a privacy preserving blockchain protocol with a novel approach to chain-state minimization.
+* [Substrate](https://github.com/paritytech/substrate) Blockchain framework. Minor contributions.
+* [Dock Substrate](https://github.com/docknetwork/dock-substrate) A blockchain.
 * [More](https://github.com/bddap)
 
-## Core Rust Developer - [Dock](https://dock.io/) <span style="display: none;">-</span> <span class="date">July 2019 to Present</span>
+## Core Rust Developer - [Dock](https://dock.io/) <span style="display: none;">-</span> <span class="date">July 2019 to April 2021</span>
 
-- Participated in R&D. Implemented research prototypes including a generic PoA blockchain which was publicly deployed as a testnet.
-- Key role in design and implementation of the [Northill](https://blog.dock.io/dock-release-northill-test-net-2) testnet.
+- Worked within a small team to implement and launch the Dock blockchain.
+- Submitted and implemented multiple feature proposals including [rfc-7](https://github.com/docknetwork/planning/blob/master/rfc/0007-anchoring.md), [rfc-8](https://github.com/docknetwork/planning/blob/master/rfc/0008-delegatable-credentials.md), [rfc-13](https://github.com/docknetwork/planning/blob/master/rfc/0013-public-delegation.md), [rfc-14](https://github.com/docknetwork/planning/blob/master/rfc/0014-public-attestation.md), and my personal favorite: [rfc-5](https://github.com/docknetwork/planning/blob/master/rfc/0005-claim-deduction.md).
+- Created a [proof of concept for automatic age verification](https://www.youtube.com/watch?v=8bZwkqqQju4).
 
 ## Rust Software Engineer - [Layer1](https://www.layer1.capital/) <span style="display: none;">-</span> <span class="date">January 2019 to July 2019</span>
 
@@ -75,6 +77,6 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 ***Knowledgeable:***
 
-<p class="indent">Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Quic, Noise Protocol Framework, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, cryptography (use of), native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker, 3D printing, Bitcoin, Lightning, Grin, Blockchain, WebAssembly, Substrate Blockchain Framework, OOP, functional, imperative</p>
+<p class="indent">Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Quic, Noise Protocol Framework, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, cryptography (use of), native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker, 3D printing, Bitcoin, Lightning, Grin, Blockchain, WebAssembly, Substrate Blockchain Framework, Rescource Description Framework (RDF), Sparql, OOP, functional, imperative</p>
 
 \[1\]: <i id="footnote1">28 college credits in C/C++ with 4.0 GPA</i>
