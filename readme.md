@@ -6,7 +6,7 @@ andrew@dirksen.com<br/>
 [github.com/bddap](https://github.com/bddap)<br/>
 [linkedin.com/in/andrew-dirksen](https://www.linkedin.com/in/andrew-dirksen)
 
-Software engineer adaptable to team or solo development. Metacognitive, autodidact. Writing professional software since 2014, using Rust since 2018. Loves writing open source. Seeking role as Rust software engineer near Portland, Oregon or remote.
+Generalist software engineer. Writing professional software since 2014, using Rust since 2018. Loves open source. Seeking role as Rust software engineer near Portland, Oregon or remote.
 
 # Experience
 
@@ -77,6 +77,10 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 ***Knowledgeable:***
 
-<p class="indent">Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Quic, Noise Protocol Framework, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, cryptography (use of), native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker, 3D printing, Bitcoin, Lightning, Grin, Blockchain, WebAssembly, Substrate Blockchain Framework, Rescource Description Framework (RDF), Sparql, OOP, functional, imperative</p>
+<p class="indent">Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Quic, Noise Protocol Framework, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, cryptography (use of), native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker, 3D printing, Bitcoin, Lightning, Grin, Blockchain, WebAssembly, Substrate Blockchain Framework, Rescource Description Framework (RDF), Sparql</p>
 
 \[1\]: <i id="footnote1">28 college credits in C/C++ with 4.0 GPA</i>
+
+# Topics of Interest - Not Exhuastive
+
+<p class="indent">Vulcan (graphics), OpenXR (VR, AR), Zero Knowlege Proofs and Circuits, Machine Learning, Automation, Phoneme-level Human to Machine Interaction, Game Development, Use of Public Keys as Network Addresses.</p>
