@@ -81,6 +81,6 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 \[1\]: <i id="footnote1">28 college credits in C/C++ with 4.0 GPA</i>
 
-## Topics of Interest - <span style="display: none;">-</span> <span class="date">Not Exhuastive</span>
+## Fields of Interest <span style="display: none;">-</span> <span class="date">non-exhuastive list</span>
 
-<p class="indent">Vulcan (graphics), OpenXR (VR, AR), Zero Knowlege Proofs and Circuits, Machine Learning, Automation, Phoneme-level Human to Machine Interaction, Game Development, Use of Public Keys as Network Addresses.</p>
+<p class="indent">Vulcan (graphics), OpenXR (VR, AR), Zero Knowlege Circuits and Proofs, Machine Learning, Automation, Phoneme-level Human to Machine Interaction, Game Development, Use of Public Keys as Network Addresses, Embedded Development, Data Wrangling and Visualization</p>
