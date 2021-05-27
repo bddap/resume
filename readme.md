@@ -6,7 +6,7 @@ andrew@dirksen.com<br/>
 [github.com/bddap](https://github.com/bddap)<br/>
 [linkedin.com/in/andrew-dirksen](https://www.linkedin.com/in/andrew-dirksen)
 
-Generalist software engineer. Writing professional software since 2014, using Rust since 2018. Loves open source. Seeking role as Rust software engineer near Portland, Oregon or remote.
+Generalist software engineer. Writing professional software since 2014, using Rust since 2018. Loves open source. Seeking role as software engineer near Portland, Oregon or remote.
 
 # Experience
 
