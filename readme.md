@@ -12,6 +12,11 @@ Generalist software engineer. Writing professional software since 2014, using Ru
 
 ## Open Source
 
+* [Refac](https://github.com/bddap/refac) Apply arbitrary transformations to text via an LLM.
+* [Webhook Mailbox](https://github.com/bddap/webhook-mailbox) Receive webhooks without a public ip address or TLS cert.
+* [Dagyo](https://github.com/bddap/dagyo) Run distributed tasks piped together as a DAG.
+* [Heli](https://github.com/bddap/heli) A toy you can run now in your browser.
+* [TryNannou](https://github.com/bddap/trynannou) Generates some pretty video.
 * [Rify](https://github.com/docknetwork/rify) Machine reasoning library implemented in Rust.
 * [Multibase Cli](https://github.com/docknetwork/multibase-cli) Small command line utility for conversions between multibase encoded data.
 * [Automata](https://github.com/bddap/automata) Cellular automaton simulation in your terminal.
@@ -22,6 +27,16 @@ Generalist software engineer. Writing professional software since 2014, using Ru
 * [Substrate](https://github.com/paritytech/substrate) Blockchain framework. Minor contributions.
 * [Dock Substrate](https://github.com/docknetwork/dock-substrate) A blockchain.
 * [More](https://github.com/bddap)
+
+## Senior Software Engineer - [PostEra](https://postera.ai/) <span style="display: none;">-</span> <span class="date">June 2021 to Present</span>
+
+- Designed and built new systems including a large scale vector search service.
+- Owned and maintained a high performance [retrosyntesis](https://en.wikipedia.org/wiki/Retrosynthetic_analysis) engine.
+- Aided in the hiring process, conducting interviews for software engineering and other roles.
+- Composed infrastructure as code and assembled CI/CD as needed.
+- Improved internal developer experience.
+- Worked with medical chemists on internal drug discovery campaigns and on design of new tooling.
+- Worked with ml researchers to productionize their work.
 
 ## Core Rust Developer - [Dock](https://dock.io/) <span style="display: none;">-</span> <span class="date">July 2019 to April 2021</span>
 
@@ -77,7 +92,7 @@ Used C++ and Python for test automation; Python, C++, and JavaScript were used f
 
 ***Knowledgeable:***
 
-<p class="indent">Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), TCP/UDP IP, HTTP, Quic, Noise Protocol Framework, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, cryptography (use of), native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker, 3D printing, Bitcoin, Lightning, Grin, Blockchain, WebAssembly, Substrate Blockchain Framework, Rescource Description Framework (RDF), Sparql</p>
+<p class="indent">Python, Git, CSS, HTML, JS, C/C++<a href="#footnote1" title="28 college credits in C/C++ with 4.0 GPA"><sup>[1]</sup></a>, Linux, Bash, Java, Lua, Assembly, 3D graphics (native and web), Wgpu, TCP/UDP IP, HTTP, Quic, Noise Protocol Framework, Haskell, Bluetooth/BLE, firmware, SPI, programmatic CAD, robotics, cryptography (use of), native GUIs, SCSS, React, Vue, REST, Websockets, asynchronous programming, Docker, 3D printing, Bitcoin, Lightning, Grin, Blockchain, WebAssembly, Substrate Blockchain Framework, Rescource Description Framework (RDF), Sparql, AWS, Terraform, Kubernetes, cheminformatics, RDKit, retrosynthesis, Celery, large scale vector search, ML deployment</p>
 
 \[1\]: <i id="footnote1">28 college credits in C/C++ with 4.0 GPA</i>
 
